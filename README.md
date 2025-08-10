@@ -1,4 +1,4 @@
-# My Personal Dotfiles
+# VIM Customisation
 
 This repository contains my personal configuration for **Vim**. It is part of a larger collection of dotfiles, organized to keep each tool's configuration modular and independent.
 
@@ -9,8 +9,11 @@ This setup uses a nested directory structure to manage configurations for differ
 The expected structure is:
 
 ~/Scripts/dotfiles/
-├── vim/      # This Git repository
-├── zsh/      # (Example: for a future zsh repo)
+
+└── vim/      # This Git repository
+
+└── zsh/      # (Example: for a future zsh repo)
+
 └── p10k/     # (Example: for a future p10k repo)
 
 
