@@ -2,6 +2,7 @@
 
 This repository contains my personal configuration for **Vim**, designed for a modular and portable dotfiles setup. Each tool’s configuration is kept independent for easy management and scalability.
 
+<img width="839" height="996" alt="Screenshot 2025-08-13 at 2 15 14 PM" src="https://github.com/user-attachments/assets/950d3ad7-f86b-498e-9029-b968b93ddd4a" />
 
 
 ---
