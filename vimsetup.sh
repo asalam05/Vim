@@ -5,7 +5,7 @@
 set -e
 
 # --- Configuration ---
-VIM_CONFIG_DIR="$HOME/Vim"
+VIM_CONFIG_DIR="$HOME/Scripts/dotfiles/Vim"
 
 echo "🚀 Starting Vim configuration setup..."
 
